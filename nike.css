@@ -1,0 +1,119 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+*{ background-color:#4c4f59;
+}
+.black{
+	background-color:black;
+	margin:center;
+	height:800px;
+	width:1050px;
+	border-radius:30px;
+	position:absolute;
+	top:225px;
+	left:420px;
+	box-shadow:5px 5px 5px 10px white;
+}
+.red{
+	background-color:red;
+	height:20px;
+	width:60px;
+	position:absolute;
+	top:260px;
+	left:985PX;
+	border-radius:20px 20px;
+	text-align:center;
+	color:white;
+	font-weight:10px;
+}
+.Products{
+	color:white;
+	font-weight:10px;
+	position:absolute;
+	top:261px;
+	left:1075PX;
+	background-color:black;
+}
+.Contact{
+	color:white;
+	font-weight:10px;
+	position:absolute;
+	top:260px;
+	left:1175PX;
+	background-color:black;
+}
+.FAQ{
+	color:white;
+	font-weight:10px;
+	position:absolute;
+	top:260px;
+	left:1265PX;
+	background-color:black;
+}
+.Login{
+	color:white;
+	font-weight:10px;
+	position:absolute;
+	top:260px;
+	left:1336PX;
+	background-color:black;
+}
+.ri-shopping-bag-line{
+	color:white;
+	position:absolute;
+	top:256px;
+	left:1402px;
+	font-size:20px;
+	background-color:black;
+}
+img{
+	position:absolute;
+	top:228px;
+	left:436px;
+	background-color:black;
+}
+.shoes{
+	position:absolute;
+	top:351px;
+	left:889px;
+	transform:rotate(-25deg);
+}
+.nikeshoes{
+	font-size:100px;
+	color:white;
+	background-color:black;
+	position:absolute;
+	
+	top:512px;
+	left: 456px;
+}
+.just{
+	font-size:90px;
+	font-weight:900;
+	color:white;
+	background-color:black;
+	position:absolute;
+	
+	top:607px;
+	left: 474px;
+}
+.common:hover{
+	color:purple;
+	cursor:pointer;
+}
+.hii{
+	background-color:red;
+	height:40px;
+	width:200px;
+	border-radius:30px;
+	position:absolute;
+	top:744px;
+	left:545px;
+	text-align:center;
+	font-size:35px;
+	color:white;
+	
+	
+}
